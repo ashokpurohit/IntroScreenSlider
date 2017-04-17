@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Intro Screen Slider</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Gadget Creek</string>
+    <string name="slide_1_desc">Welcome to Gadget Creek!</string>
+
+    <string name="slide_2_title">Android</string>
+    <string name="slide_2_desc">Get the basic to advanced Android tutorials along with full source code at Gadget Creek!</string>
+
+    <string name="slide_3_title">Tips/Tricks</string>
+    <string name="slide_3_desc">Our community will help you learn the best tricks, tips and life hacks for absolutely everything!</string>
+
+    <string name="slide_4_title">Technews</string>
+    <string name="slide_4_desc">Read the latest technology news and tech headlines on computer, apps, games, gadgets and other personal tech!</string>
+
+    <string name="main_screen_desc">There are two steps to see the Intro Screen slider.\n\n1. Goto Settings -> apps -> welcome slider -> clear data.\n2. Click the below Play Again button</string>
+    <string name="play_again">Play Again</string>
+</resources>
